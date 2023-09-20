@@ -1,0 +1,18 @@
+.container-fluid form .searchicon{
+  color:pink;
+  padding: 8px;
+}
+.container-fluid form .searchbar{
+  border: none;
+}
+.heading{
+  font-size: 10px;
+}
+
+
+
+@media screen and (max-width: 950px){
+  .carousel-inner .carousel-item img{
+    height: 300px !important;
+  }
+}
